@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707339707 source:c:\users\user\desktop\applications\binary to text converter\code.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
