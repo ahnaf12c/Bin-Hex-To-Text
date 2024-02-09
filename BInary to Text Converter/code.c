@@ -32,7 +32,7 @@ int main()
     char bin[9];
     gets(bin);
     int dec = binaryToDecimal(bin);
-    char ch = dec;    
+    char ch = dec;
     printf("%c\n", ch);
     return 0;
 }
