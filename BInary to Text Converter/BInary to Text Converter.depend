@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1707427494 source:c:\users\user\desktop\applications\binary to text converter\code.c
+1707428465 source:c:\users\user\desktop\applications\binary to text converter\code.c
 	<stdio.h>
 	<string.h>
 	<math.h>
