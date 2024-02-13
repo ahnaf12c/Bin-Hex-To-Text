@@ -8,4 +8,4 @@ V Alpha 1.0    Version note: Added user input. Initially released to GiHub. Can 
 
 V Alpha 1.5    Version note: Made it to have more features. Added a simple TUI, user prompt, decumentation etc. Now can print words instead of only letters.
 
-Note: The executable is in the folder bin/Debug inside the "Binary to text converter" folder.
+Note: The executable is in the folder bin/Debug inside the "Binary to text converter" folder. Executable may only work for Windows.
