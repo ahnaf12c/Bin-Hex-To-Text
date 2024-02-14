@@ -15,4 +15,4 @@ Stable release:
 
 V 1.0    Version notes: Added full functionality to the code. Two conversion modes, Binary to text and Hexadecimal to Text. Removed bugs. More features to the TUI.
 
-Note: The executable is in the folder bin/Debug inside the "Binary to text converter" folder. Executable may only work for Windows.
+Note: The executable is in the folder bin/Debug inside the "bin-hex to text" folder. Executable may only work for Windows.
