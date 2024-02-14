@@ -1,4 +1,4 @@
-# Binary-To-Text-Converter
+# Binary/Hex-To-Text-Converter
 
 Current Version: Stable 1.0
 
