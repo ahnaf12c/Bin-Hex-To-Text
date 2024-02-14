@@ -31,9 +31,11 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="binHex.h" />
 		<Unit filename="code.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="convert.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

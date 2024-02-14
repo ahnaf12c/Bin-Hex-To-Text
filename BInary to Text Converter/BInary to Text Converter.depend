@@ -1,6 +1,18 @@
 # depslib dependency file v1.0
-1707792782 source:c:\users\user\desktop\applications\binary to text converter\code.c
+1707852344 source:c:\users\user\desktop\applications\binary to text converter\code.c
 	<stdio.h>
 	<string.h>
 	<math.h>
+	"convert.h"
+
+1707852714 c:\users\user\desktop\applications\binary to text converter\binhex.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1707853224 c:\users\user\desktop\applications\binary to text converter\convert.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"binHex.h"
 
