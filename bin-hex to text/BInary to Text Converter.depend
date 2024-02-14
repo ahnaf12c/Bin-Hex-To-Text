@@ -16,3 +16,20 @@
 	<math.h>
 	"binHex.h"
 
+1707852344 source:c:\users\user\desktop\applications\bin-hex to text\code.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"convert.h"
+
+1707853224 c:\users\user\desktop\applications\bin-hex to text\convert.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"binHex.h"
+
+1707852714 c:\users\user\desktop\applications\bin-hex to text\binhex.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+
