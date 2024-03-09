@@ -1,6 +1,6 @@
 # Binary/Hex-To-Text-Converter
 
-Current Version: Stable 1.0
+Current Version: Beta 1.0
 
 Work in Progress. Will be made to have more advanced features.
 
